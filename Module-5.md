@@ -20,3 +20,10 @@ This is a shortcut to the PyRosetta Module guide but it is foundational to guidi
 
 [5.3 SARS-CoV2 minibinder redesign project Intro & Discussion slides](https://docs.google.com/presentation/d/1G4GZDkcboUHuDXvCEoVn-kc-KCrN00pLi0D9LKEwy2c/edit?usp=sharing)
 This slide deck covers the rationale for the project and cites relevant components of the Cao et al 2020 paper and follow-up research that investigates linking binders into flexible trimers. The deck concludes with a set of open-ended discussion questions to support students thinking in expanding their work and connecting it to the larger scientific goals outside this project.
+
+
+The goal of [this form](https://docs.google.com/forms/d/e/1FAIpQLSf0XcMJ0zvjBY1EBQ3H78oC89j9zOrQiC4DmWS8_m2_Z_MiJg/viewform?usp=sf_link) is to cull and organize the data we collectively generated in our summer together. This means the binder redesigns you made! 
+
+The form will prompt you to enter the information one of the designs you worked on. Some of these will be the universal designs. It's okay if more than one person adds in this data but optimally, you would coordinate with your team so we don't make overlapping efforts. 
+
+To be clear: You will be completing a form entry for each redesign that you want to submit for testing/assaying. You may submit as many entries as you like.
