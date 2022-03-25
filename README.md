@@ -5,9 +5,9 @@ nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: PCR-IO
+  name: Pre-College Rosetta Internship Opportunity
 ---
-
+# Pre-College Rosetta Internship Opportunity
 The Pre-College Rosetta Internship Opportunity (PCR-IO) program engaged rising senior high school students in a protein therapeutic design project in which they produced novel structural models using PyRosetta and Foldit software packages. The mission of PCR-IO was to offer a program to increase equitable access to computational biomolecular work. This Github project serves as a repository for the teaching and learning materials developed in the program.
 
 Follow along and explore the steps of this interactive workflow illustrating our resource hub that will take you or your students from protein folding basics to complex structural analysis.
