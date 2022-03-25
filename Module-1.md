@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Module-1
-nav_order: 3
+title: Module 1. Protein Science 101 with Foldit
+nav_order: 2
 ---
 
 
