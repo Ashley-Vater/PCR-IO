@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Module 6. Communicate your results
-nav_order: 4
+nav_order: 7
 ---
 
 *The content in the [Communicate your results](https://drive.google.com/drive/folders/1nNKDp6QgMAQ_hgCyTP8avOpkBWzEBkte?usp=sharing) module both can span and support students' work through the earlier modules but culminates with final presentations at the end of the research project.* 
