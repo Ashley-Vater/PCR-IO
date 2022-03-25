@@ -1,4 +1,9 @@
-Module 3. Proteins are beautiful in PyMol
+---
+layout: default
+title: Module 3. Proteins are beautiful in PyMol
+nav_order: 4
+---
+
 
 *The [Proteins are Beautiful in PyMol](https://drive.google.com/drive/folders/1ZXtbVunwsrEZOY5HvWhG9U3y0XClnuOR?usp=sharing) resources show students how to use the powerful protein structure visualization software PyMOL to observe and analyze structures, to prepare protein files for modeling, and to create clear, intuitive figures for publication. Try your hand at scripting in PyMol to automate your protein structure beautification processes.* 
 
