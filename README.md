@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PCR-IO
+title: Pre-College Rosetta Internship Opportunity
 nav_exclude: true
 permalink: index.html
 seo:
