@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 4
+title: Module 2. Python coding is easy in Google Colab
+nav_order: 3
 ---
 
 
