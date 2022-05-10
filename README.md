@@ -18,4 +18,5 @@ Follow along and explore the steps of this interactive workflow illustrating our
 This module workflow will give you the opportunity to investigate mutations in a protein system that you think might optimize, disrupt, or affect the system in some capacity! In the guides, slidedecks, and Google Colab workbooks linked, you'll see that we are working with a SARS-CoV2 miniprotein binder. However, these resources can easily be adapted to work with other protein systems.
 
 ![](minibinderexample.png)
-<span style="font-size:4em">Figure 1. Mini-protein binder redesign (pink) with interacting residues (red sticks) highlighted and SARS-CoV-2 variant receptor binding domain (cyan). Image credit PCR-IO student: R. Bhagat 2021. </span>
+
+Figure 1. Mini-protein binder redesign (pink) with interacting residues (red sticks) highlighted and SARS-CoV-2 variant receptor binding domain (cyan). Image credit PCR-IO student: R. Bhagat 2021.
