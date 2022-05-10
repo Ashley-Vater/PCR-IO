@@ -16,3 +16,5 @@ Follow along and explore the steps of this interactive workflow illustrating our
 ## Getting Started
 
 This module workflow will give you the opportunity to investigate mutations in a protein system that you think might optimize, disrupt, or affect the system in some capacity! In the guides, slidedecks, and Google Colab workbooks linked, you'll see that we are working with a SARS-CoV2 miniprotein binder. However, these resources can easily be adapted to work with other protein systems.
+
+![](minibinder-example.png)
