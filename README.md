@@ -19,4 +19,4 @@ This module workflow will give you the opportunity to investigate mutations in a
 
 ![](minibinderexample.png)
 
-Figure showing completed project. Mini-protein binder redesign (pink) with interacting residues highlighted (red sticks) and SARS-CoV-2 variant receptor binding domain (cyan). Image credit PCR-IO student: R. Bhagat 2021.
+<font size="1"> Figure showing completed project. Mini-protein binder redesign (pink) with interacting residues highlighted (red sticks) and SARS-CoV-2 variant receptor binding domain (cyan). Image credit PCR-IO student: R. Bhagat 2021.</font>
